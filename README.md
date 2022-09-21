@@ -4,11 +4,14 @@ a program in C++ that works as follows:
 1. Sortedlist
 2. InverselySortedList 
 3. RandomList
+
 • Then the user is allowed to choose the specific sorting technique to be applied to sort the previously selected list, among the following:
+
 1. MergeSort 
 2. HeapSort 
 3. QuickSort 
 4. Allofthem
+
 • The program determines the number of comparisons, assignment statements and swap done for each sorting technique.
 
 • The program measures the time consumed to sort the list in each sorting technique.
